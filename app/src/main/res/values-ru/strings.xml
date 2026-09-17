@@ -38,10 +38,10 @@
     <string name="pref_inactivity_timeout_name">Время ожидания</string>
     <plurals name="pref_inactivity_timeout_desc">
         <item quantity="one">Блокировать через %d с после закрытия приложения.</item>
-        <item quantity="other">Блокировать через %d с после выхода из приложения.</item>
+        <item quantity="other">Блокировать через %d с после закрытия приложения.</item>
     </plurals>
     <string name="pref_lock_now_name">Заблокировать сейчас</string>
-    <string name="pref_lock_now_desc">Заблокировать приложение немедленно, не дожидаясь автоблокировки.</string>
+    <string name="pref_lock_now_desc">Заблокировать немедленно, не дожидаясь автоблокировки.</string>
     <string name="pref_allow_backup_name">Резервное копирование Android</string>
     <string name="pref_allow_backup_desc">Разрешать бэкап при сквозном шифровании или прямом переносе на другое устройство. RSAF не может это проверить.</string>
     <string name="pref_version_name">Версия</string>
